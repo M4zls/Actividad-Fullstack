@@ -1,0 +1,29 @@
+.card img {
+    width: 180px;
+    height: 130px;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+    border-radius: 8px;
+    
+}
+
+.back{
+    background-color: #000000c6;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.titulo1{
+    color: white;
+}
+
+.precio1{
+    color: white;
+}
+
+.carrito{
+    background-color: white;
+    text-decoration-color: black;
+
+}
